@@ -1,0 +1,114 @@
+[
+  {
+    "size": 16,
+    "time": 0.13396800006739795,
+    "keySize": 256,
+    "mode": "CFB",
+    "operation": "Encryption",
+    "label": "AES-256 CFB Encryption"
+  },
+  {
+    "size": 64,
+    "time": 0.13542199996300042,
+    "keySize": 256,
+    "mode": "CFB",
+    "operation": "Encryption",
+    "label": "AES-256 CFB Encryption"
+  },
+  {
+    "size": 256,
+    "time": 0.19097100012004375,
+    "keySize": 256,
+    "mode": "CFB",
+    "operation": "Encryption",
+    "label": "AES-256 CFB Encryption"
+  },
+  {
+    "size": 1024,
+    "time": 0.19917199993506074,
+    "keySize": 256,
+    "mode": "CFB",
+    "operation": "Encryption",
+    "label": "AES-256 CFB Encryption"
+  },
+  {
+    "size": 4096,
+    "time": 0.292674999916926,
+    "keySize": 256,
+    "mode": "CFB",
+    "operation": "Encryption",
+    "label": "AES-256 CFB Encryption"
+  },
+  {
+    "size": 16384,
+    "time": 0.37258900003507733,
+    "keySize": 256,
+    "mode": "CFB",
+    "operation": "Encryption",
+    "label": "AES-256 CFB Encryption"
+  },
+  {
+    "size": 65536,
+    "time": 0.6804869999177754,
+    "keySize": 256,
+    "mode": "CFB",
+    "operation": "Encryption",
+    "label": "AES-256 CFB Encryption"
+  },
+  {
+    "size": 16,
+    "time": 0.17329499986954033,
+    "keySize": 256,
+    "mode": "CFB",
+    "operation": "Encryption",
+    "label": "AES-256 CFB Decryption"
+  },
+  {
+    "size": 64,
+    "time": 0.17051199986599386,
+    "keySize": 256,
+    "mode": "CFB",
+    "operation": "Encryption",
+    "label": "AES-256 CFB Decryption"
+  },
+  {
+    "size": 256,
+    "time": 0.17171999998390675,
+    "keySize": 256,
+    "mode": "CFB",
+    "operation": "Encryption",
+    "label": "AES-256 CFB Decryption"
+  },
+  {
+    "size": 1024,
+    "time": 0.15942200017161667,
+    "keySize": 256,
+    "mode": "CFB",
+    "operation": "Encryption",
+    "label": "AES-256 CFB Decryption"
+  },
+  {
+    "size": 4096,
+    "time": 0.24668000009842217,
+    "keySize": 256,
+    "mode": "CFB",
+    "operation": "Encryption",
+    "label": "AES-256 CFB Decryption"
+  },
+  {
+    "size": 16384,
+    "time": 0.27413600008003414,
+    "keySize": 256,
+    "mode": "CFB",
+    "operation": "Encryption",
+    "label": "AES-256 CFB Decryption"
+  },
+  {
+    "size": 65536,
+    "time": 0.726126000052318,
+    "keySize": 256,
+    "mode": "CFB",
+    "operation": "Encryption",
+    "label": "AES-256 CFB Decryption"
+  }
+]

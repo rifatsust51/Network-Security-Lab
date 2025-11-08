@@ -1,0 +1,453 @@
+{
+  "aes_performance": {
+    "encryption": {
+      "aes_128_ecb": [
+        {
+          "size": 16,
+          "time": 0.1756,
+          "keySize": 128,
+          "mode": "ECB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 64,
+          "time": 0.1996,
+          "keySize": 128,
+          "mode": "ECB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 256,
+          "time": 0.1954,
+          "keySize": 128,
+          "mode": "ECB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 1024,
+          "time": 0.1498,
+          "keySize": 128,
+          "mode": "ECB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 4096,
+          "time": 0.2045,
+          "keySize": 128,
+          "mode": "ECB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 16384,
+          "time": 0.2446,
+          "keySize": 128,
+          "mode": "ECB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 65536,
+          "time": 0.3297,
+          "keySize": 128,
+          "mode": "ECB",
+          "operation": "Encryption"
+        }
+      ],
+      "aes_128_cfb": [
+        {
+          "size": 16,
+          "time": 0.2107,
+          "keySize": 128,
+          "mode": "CFB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 64,
+          "time": 0.1375,
+          "keySize": 128,
+          "mode": "CFB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 256,
+          "time": 0.1966,
+          "keySize": 128,
+          "mode": "CFB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 1024,
+          "time": 0.2524,
+          "keySize": 128,
+          "mode": "CFB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 4096,
+          "time": 0.2146,
+          "keySize": 128,
+          "mode": "CFB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 16384,
+          "time": 0.315,
+          "keySize": 128,
+          "mode": "CFB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 65536,
+          "time": 0.7131,
+          "keySize": 128,
+          "mode": "CFB",
+          "operation": "Encryption"
+        }
+      ],
+      "aes_256_ecb": [
+        {
+          "size": 16,
+          "time": 0.129,
+          "keySize": 256,
+          "mode": "ECB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 64,
+          "time": 0.0984,
+          "keySize": 256,
+          "mode": "ECB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 256,
+          "time": 0.169,
+          "keySize": 256,
+          "mode": "ECB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 1024,
+          "time": 0.1351,
+          "keySize": 256,
+          "mode": "ECB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 4096,
+          "time": 0.169,
+          "keySize": 256,
+          "mode": "ECB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 16384,
+          "time": 0.3065,
+          "keySize": 256,
+          "mode": "ECB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 65536,
+          "time": 0.2803,
+          "keySize": 256,
+          "mode": "ECB",
+          "operation": "Encryption"
+        }
+      ],
+      "aes_256_cfb": [
+        {
+          "size": 16,
+          "time": 0.1532,
+          "keySize": 256,
+          "mode": "CFB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 64,
+          "time": 0.1298,
+          "keySize": 256,
+          "mode": "CFB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 256,
+          "time": 0.1799,
+          "keySize": 256,
+          "mode": "CFB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 1024,
+          "time": 0.1584,
+          "keySize": 256,
+          "mode": "CFB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 4096,
+          "time": 0.1819,
+          "keySize": 256,
+          "mode": "CFB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 16384,
+          "time": 0.3448,
+          "keySize": 256,
+          "mode": "CFB",
+          "operation": "Encryption"
+        },
+        {
+          "size": 65536,
+          "time": 0.6838,
+          "keySize": 256,
+          "mode": "CFB",
+          "operation": "Encryption"
+        }
+      ]
+    },
+    "decryption": {
+      "aes_128_ecb": [
+        {
+          "size": 16,
+          "time": 0.2334,
+          "keySize": 128,
+          "mode": "ECB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 64,
+          "time": 0.2126,
+          "keySize": 128,
+          "mode": "ECB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 256,
+          "time": 0.2077,
+          "keySize": 128,
+          "mode": "ECB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 1024,
+          "time": 0.2261,
+          "keySize": 128,
+          "mode": "ECB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 4096,
+          "time": 0.2778,
+          "keySize": 128,
+          "mode": "ECB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 16384,
+          "time": 0.4069,
+          "keySize": 128,
+          "mode": "ECB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 65536,
+          "time": 0.5606,
+          "keySize": 128,
+          "mode": "ECB",
+          "operation": "Decryption"
+        }
+      ],
+      "aes_128_cfb": [
+        {
+          "size": 16,
+          "time": 0.2321,
+          "keySize": 128,
+          "mode": "CFB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 64,
+          "time": 0.1998,
+          "keySize": 128,
+          "mode": "CFB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 256,
+          "time": 0.317,
+          "keySize": 128,
+          "mode": "CFB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 1024,
+          "time": 0.3364,
+          "keySize": 128,
+          "mode": "CFB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 4096,
+          "time": 0.3094,
+          "keySize": 128,
+          "mode": "CFB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 16384,
+          "time": 0.667,
+          "keySize": 128,
+          "mode": "CFB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 65536,
+          "time": 1.3317,
+          "keySize": 128,
+          "mode": "CFB",
+          "operation": "Decryption"
+        }
+      ],
+      "aes_256_ecb": [
+        {
+          "size": 16,
+          "time": 0.2887,
+          "keySize": 256,
+          "mode": "ECB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 64,
+          "time": 0.3489,
+          "keySize": 256,
+          "mode": "ECB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 256,
+          "time": 0.1991,
+          "keySize": 256,
+          "mode": "ECB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 1024,
+          "time": 0.1722,
+          "keySize": 256,
+          "mode": "ECB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 4096,
+          "time": 0.3006,
+          "keySize": 256,
+          "mode": "ECB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 16384,
+          "time": 0.339,
+          "keySize": 256,
+          "mode": "ECB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 65536,
+          "time": 0.4417,
+          "keySize": 256,
+          "mode": "ECB",
+          "operation": "Decryption"
+        }
+      ],
+      "aes_256_cfb": [
+        {
+          "size": 16,
+          "time": 0.222,
+          "keySize": 256,
+          "mode": "CFB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 64,
+          "time": 0.3334,
+          "keySize": 256,
+          "mode": "CFB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 256,
+          "time": 0.3294,
+          "keySize": 256,
+          "mode": "CFB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 1024,
+          "time": 0.3799,
+          "keySize": 256,
+          "mode": "CFB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 4096,
+          "time": 0.4012,
+          "keySize": 256,
+          "mode": "CFB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 16384,
+          "time": 0.6923,
+          "keySize": 256,
+          "mode": "CFB",
+          "operation": "Decryption"
+        },
+        {
+          "size": 65536,
+          "time": 1.6993,
+          "keySize": 256,
+          "mode": "CFB",
+          "operation": "Decryption"
+        }
+      ]
+    }
+  },
+  "rsa_performance": {
+    "encryption": [
+      { "keySize": 1024, "time": 46.8844, "operation": "RSA Encryption" },
+      { "keySize": 2048, "time": 520.8255, "operation": "RSA Encryption" },
+      { "keySize": 3072, "time": 1561.6156, "operation": "RSA Encryption" },
+      { "keySize": 4096, "time": 3756.3315, "operation": "RSA Encryption" }
+    ],
+    "decryption": [
+      { "keySize": 1024, "time": 49.8336, "operation": "RSA Decryption" },
+      { "keySize": 2048, "time": 1139.8368, "operation": "RSA Decryption" },
+      { "keySize": 3072, "time": 718.4311, "operation": "RSA Decryption" },
+      { "keySize": 4096, "time": 7572.337, "operation": "RSA Decryption" }
+    ],
+    "signature": [
+      { "keySize": 512, "time": 21.5774, "operation": "RSA Sign" },
+      { "keySize": 1024, "time": 41.5244, "operation": "RSA Sign" },
+      { "keySize": 2048, "time": 702.5314, "operation": "RSA Sign" },
+      { "keySize": 3072, "time": 1033.6986, "operation": "RSA Sign" },
+      { "keySize": 4096, "time": 3739.5413, "operation": "RSA Sign" }
+    ],
+    "verification": [
+      { "keySize": 512, "time": 48.5841, "operation": "RSA Verify" },
+      { "keySize": 1024, "time": 51.4655, "operation": "RSA Verify" },
+      { "keySize": 2048, "time": 1650.0925, "operation": "RSA Verify" },
+      { "keySize": 3072, "time": 4604.0771, "operation": "RSA Verify" },
+      { "keySize": 4096, "time": 5738.3005, "operation": "RSA Verify" }
+    ]
+  },
+  "sha256_performance": [
+    { "size": 16, "time": 0.1527, "operation": "SHA-256" },
+    { "size": 64, "time": 0.0864, "operation": "SHA-256" },
+    { "size": 256, "time": 0.1432, "operation": "SHA-256" },
+    { "size": 1024, "time": 0.1581, "operation": "SHA-256" },
+    { "size": 4096, "time": 0.1822, "operation": "SHA-256" },
+    { "size": 16384, "time": 0.4522, "operation": "SHA-256" },
+    { "size": 65536, "time": 1.1735, "operation": "SHA-256" }
+  ]
+}

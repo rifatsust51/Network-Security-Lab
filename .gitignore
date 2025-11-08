@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+vendor/
+.env
+myenv
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Compiled files
+dist/
+build/
+*.class
+*.o
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Operating System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# Package files
+package-lock.json
+yarn.lock
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Cache directories
+.cache/
+.npm/
+.eslintcache
+
+# Misc
+*.bak
+*.backup
+.env.local
+.env.development
+.env.test
+.env.production
